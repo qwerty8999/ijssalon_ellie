@@ -27,7 +27,7 @@ def gemiddelde(mijn_lijst):
     gemtxt=f"De gemiddelde inkomsten deze week zijn {gem} euro."
     return gemtxt
 
-def meevoudig(invoer_lijst):
+def meervoudig(invoer_lijst):
     a=laag_en_hoog(invoer_lijst)
     return a
 
